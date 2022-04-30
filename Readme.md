@@ -1,4 +1,4 @@
-# Sew le sew Charity Organization
+
 
 ## Home
 
@@ -57,17 +57,6 @@
  -Change password and username
  -Sign Out
  
-
- # Developer Team members (Eagle Team)
- - Natnael Deyas
- - Sagni Alemayehu
- - Natnael Fekadu
- - Robera Insarmu
- - Natnael Getachew
- - Natnael Assefa
- - Tamrat Guda
- - Kibru Gebremariam
- - Yewalashet Behailu
 
  
 @2022 March 31
