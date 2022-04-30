@@ -44,7 +44,7 @@
 
 -Copyright
 -Credit for us  
--Debo team + website + social media links
+
  
  ## Admin
 
